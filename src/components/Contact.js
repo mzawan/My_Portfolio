@@ -72,7 +72,6 @@ export default function Contact() {
         <p className="note">
           <a href="https://github.com/Moizawan101" target="_blank" rel="noreferrer">GitHub</a>
           <a href="https://linkedin.com/in/malikmoizahmad" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a href="#">moizahmad334455@gmail.com</a>
         </p>
       </div>
     </section>
